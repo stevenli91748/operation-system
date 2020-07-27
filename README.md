@@ -9,4 +9,4 @@
 # 有用的参考
 
 * [写给大忙人看的操作系统](https://blog.csdn.net/qq_36894974/article/details/104554120)
-* []()
+* [操作系统知识点整理](https://www.jianshu.com/p/bb33282402d7)
