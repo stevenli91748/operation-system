@@ -4,6 +4,10 @@
 <a href="https://ibb.co/mB26gdP"><img src="https://i.ibb.co/kywQvzP/20190508230137202.png" alt="20190508230137202" border="0"></a>
 
 
+[阿里架构师剖析程序运行原理，程序是如何运行又是如何崩溃的？](https://zhuanlan.zhihu.com/p/267145757?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
+---|
+
+
 # 视频
 
 * [Operating System Full Course](https://www.youtube.com/watch?v=mXw9ruZaxzQ&t=5s)
